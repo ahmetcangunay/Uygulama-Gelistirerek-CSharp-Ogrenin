@@ -1,3 +1,4 @@
+![image](https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png)
 # Uygulama-Gelistirerek-CSharp-Ogrenin
 C# programlama mantığını modüler bir müfredat aracılığıyla projeler geliştirerek öğrenin! 
 
